@@ -1,16 +1,18 @@
 html {
-  background-color: rgb(252, 252, 252);
-  background-image: url("bg2.jpg");
-  height: 500px; 
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    background-color: rgb(252, 252, 252);
+    background-image: url("bg2.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body {
     color: rgb(14, 15, 124);
 }
-  
-h1,h2,h3 {
+
+h1,
+h2,
+h3 {
     color: rgb(119, 11, 11);
 }
