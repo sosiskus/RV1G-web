@@ -7,10 +7,10 @@ html {
   background-size: cover;
 }
 
-body,h2 {
-    color: rgb(0, 0, 0);
+body {
+    color: rgb(14, 15, 124);
 }
   
-h1 {
-    color: rgb(33, 37, 33);
+h1,h2,h3 {
+    color: rgb(119, 11, 11);
 }
